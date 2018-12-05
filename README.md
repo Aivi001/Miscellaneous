@@ -1,0 +1,2 @@
+# Miscellaneous
+Other short algorithms
